@@ -1,0 +1,67 @@
+{
+  "songs": [
+    {
+      "id": "1",
+      "name": "Nơi này có anh",
+      "singer": "Sơn Tùng M-TP",
+      "composer": "Sơn Tùng",
+      "duration": "05:00",
+      "likes": 34,
+      "status": "Công khai"
+    },
+    {
+      "id": "2",
+      "name": "Khó vẽ nụ cười",
+      "singer": "Đạt G",
+      "composer": "Đạt G",
+      "duration": "04:00",
+      "likes": 20,
+      "status": "Công khai"
+    },
+    {
+      "id": "76f4",
+      "name": "hoang hon",
+      "singer": "huy hoang",
+      "composer": "hoa tuoi",
+      "duration": "12:20",
+      "likes": 14,
+      "status": "Lưu trữ"
+    },
+    {
+      "id": "41c4",
+      "name": "mot em be non",
+      "singer": "minh juan",
+      "composer": "juan minh",
+      "duration": "23:21",
+      "likes": 24,
+      "status": "Lưu trữ"
+    },
+    {
+      "id": "625b",
+      "name": "tet nay con khong ve remix",
+      "singer": "trung",
+      "composer": "duy",
+      "duration": "02:03",
+      "likes": 14,
+      "status": "Lưu trữ"
+    },
+    {
+      "id": "0253",
+      "name": "iphone13",
+      "singer": "trung",
+      "composer": "duy",
+      "duration": "02:03",
+      "likes": 0,
+      "status": "Lưu trữ"
+    },
+    {
+      "id": "1557",
+      "name": "laptop123",
+      "singer": "ky su",
+      "composer": "su ky",
+      "duration": "09:08",
+      "likes": 0,
+      "status": "Lưu trữ"
+    }
+  ]
+}
